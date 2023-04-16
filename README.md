@@ -1,5 +1,5 @@
 # Search Engine
-This repository contains contain my source code for three different Search engines
+This repository contains my source code for three different Search engines
 
 * **Article Search Engine**  
 This engine crawls articles from website VnExpress.vn and supports searching related articles (documents) based on text query

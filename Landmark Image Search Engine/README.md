@@ -7,5 +7,6 @@ There are a database D and train dataset T that both contain VN landmark images.
 * Secondly, we classify all images of database by our trained classifier.
 * For each image query, we classify that image and then within that class, we use *Local Feature Matching* to find the most related images and its precision score.
 
+**Dataset** for fine-tuning *Vision Transformer* is provided in the following link: https://drive.google.com/file/d/1nQIfFMeQuq2rmYHcYAZGMqpROP4s8kAO/view?usp=sharing
 
 

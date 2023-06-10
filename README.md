@@ -6,7 +6,7 @@ This engine crawls articles from website VnExpress.vn and supports searching rel
 
 
 
-* **Landmark Image Search Engin**
+* **Landmark Image Search Engine**
 This engine contain a database of Vietname's landmark images. It allows people to query related images based on their image query.
 
 * **Multi-modal Search Engine**
